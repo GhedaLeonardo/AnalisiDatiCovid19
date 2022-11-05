@@ -1,0 +1,1561 @@
+[
+{
+"Regione":"Piemonte",
+"Anno":"2001",
+"Giornate per abitante":2.06
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2002",
+"Giornate per abitante":2.04
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2003",
+"Giornate per abitante":2.11
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2004",
+"Giornate per abitante":2.19
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2005",
+"Giornate per abitante":2.39
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2006",
+"Giornate per abitante":2.58
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2007",
+"Giornate per abitante":2.39
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2008",
+"Giornate per abitante":2.66
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2009",
+"Giornate per abitante":2.66
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2010",
+"Giornate per abitante":2.83
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2011",
+"Giornate per abitante":2.95
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2012",
+"Giornate per abitante":2.84
+}
+,
+{
+"Regione":"Piemonte",
+"Anno":"2013",
+"Giornate per abitante":2.88
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2001",
+"Giornate per abitante":27.25
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2002",
+"Giornate per abitante":27.57
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2003",
+"Giornate per abitante":28.90
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2004",
+"Giornate per abitante":26.16
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2005",
+"Giornate per abitante":25.83
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2006",
+"Giornate per abitante":25.80
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2007",
+"Giornate per abitante":24.83
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2008",
+"Giornate per abitante":24.72
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2009",
+"Giornate per abitante":24.77
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2010",
+"Giornate per abitante":24.52
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2011",
+"Giornate per abitante":24.68
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2012",
+"Giornate per abitante":24.89
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Anno":"2013",
+"Giornate per abitante":23.25
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2001",
+"Giornate per abitante":2.72
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2002",
+"Giornate per abitante":2.83
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2003",
+"Giornate per abitante":2.85
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2004",
+"Giornate per abitante":2.87
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2005",
+"Giornate per abitante":2.85
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2006",
+"Giornate per abitante":2.88
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2007",
+"Giornate per abitante":3.04
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2008",
+"Giornate per abitante":2.98
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2009",
+"Giornate per abitante":3.08
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2010",
+"Giornate per abitante":3.23
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2011",
+"Giornate per abitante":3.42
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2012",
+"Giornate per abitante":3.42
+}
+,
+{
+"Regione":"Lombardia",
+"Anno":"2013",
+"Giornate per abitante":3.44
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2001",
+"Giornate per abitante":40.89
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2002",
+"Giornate per abitante":41.15
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2003",
+"Giornate per abitante":41.53
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2004",
+"Giornate per abitante":41.07
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2005",
+"Giornate per abitante":41.77
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2006",
+"Giornate per abitante":41.71
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2007",
+"Giornate per abitante":42.28
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2008",
+"Giornate per abitante":42.39
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2009",
+"Giornate per abitante":42.74
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2010",
+"Giornate per abitante":42.87
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2011",
+"Giornate per abitante":43.00
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2012",
+"Giornate per abitante":43.38
+}
+,
+{
+"Regione":"Trentino-Alto Adige",
+"Anno":"2013",
+"Giornate per abitante":42.55
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2001",
+"Giornate per abitante":12.78
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2002",
+"Giornate per abitante":12.19
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2003",
+"Giornate per abitante":12.01
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2004",
+"Giornate per abitante":11.75
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2005",
+"Giornate per abitante":12.11
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2006",
+"Giornate per abitante":12.59
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2007",
+"Giornate per abitante":12.94
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2008",
+"Giornate per abitante":12.61
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2009",
+"Giornate per abitante":12.50
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2010",
+"Giornate per abitante":12.55
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2011",
+"Giornate per abitante":13.06
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2012",
+"Giornate per abitante":12.81
+}
+,
+{
+"Regione":"Veneto",
+"Anno":"2013",
+"Giornate per abitante":12.55
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2001",
+"Giornate per abitante":8.09
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2002",
+"Giornate per abitante":7.76
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2003",
+"Giornate per abitante":7.44
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2004",
+"Giornate per abitante":7.16
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2005",
+"Giornate per abitante":6.99
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2006",
+"Giornate per abitante":7.05
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2007",
+"Giornate per abitante":7.22
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2008",
+"Giornate per abitante":7.29
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2009",
+"Giornate per abitante":7.23
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2010",
+"Giornate per abitante":7.10
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2011",
+"Giornate per abitante":7.34
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2012",
+"Giornate per abitante":7.22
+}
+,
+{
+"Regione":"Friuli-Venezia Giulia",
+"Anno":"2013",
+"Giornate per abitante":6.40
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2001",
+"Giornate per abitante":9.69
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2002",
+"Giornate per abitante":9.64
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2003",
+"Giornate per abitante":9.42
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2004",
+"Giornate per abitante":9.04
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2005",
+"Giornate per abitante":8.78
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2006",
+"Giornate per abitante":9.03
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2007",
+"Giornate per abitante":9.01
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2008",
+"Giornate per abitante":8.97
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2009",
+"Giornate per abitante":8.85
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2010",
+"Giornate per abitante":8.73
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2011",
+"Giornate per abitante":8.95
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2012",
+"Giornate per abitante":8.56
+}
+,
+{
+"Regione":"Liguria",
+"Anno":"2013",
+"Giornate per abitante":8.33
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2001",
+"Giornate per abitante":9.41
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2002",
+"Giornate per abitante":9.26
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2003",
+"Giornate per abitante":9.08
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2004",
+"Giornate per abitante":8.90
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2005",
+"Giornate per abitante":8.81
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2006",
+"Giornate per abitante":9.04
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2007",
+"Giornate per abitante":9.13
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2008",
+"Giornate per abitante":9.07
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2009",
+"Giornate per abitante":8.94
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2010",
+"Giornate per abitante":8.72
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2011",
+"Giornate per abitante":8.91
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2012",
+"Giornate per abitante":8.58
+}
+,
+{
+"Regione":"Emilia-Romagna",
+"Anno":"2013",
+"Giornate per abitante":8.26
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2001",
+"Giornate per abitante":10.90
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2002",
+"Giornate per abitante":10.85
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2003",
+"Giornate per abitante":10.47
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2004",
+"Giornate per abitante":10.00
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2005",
+"Giornate per abitante":10.69
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2006",
+"Giornate per abitante":11.45
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2007",
+"Giornate per abitante":11.59
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2008",
+"Giornate per abitante":11.37
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2009",
+"Giornate per abitante":11.23
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2010",
+"Giornate per abitante":11.47
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2011",
+"Giornate per abitante":11.91
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2012",
+"Giornate per abitante":11.59
+}
+,
+{
+"Regione":"Toscana",
+"Anno":"2013",
+"Giornate per abitante":11.47
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2001",
+"Giornate per abitante":7.14
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2002",
+"Giornate per abitante":7.18
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2003",
+"Giornate per abitante":6.94
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2004",
+"Giornate per abitante":6.81
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2005",
+"Giornate per abitante":6.84
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2006",
+"Giornate per abitante":7.18
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2007",
+"Giornate per abitante":7.26
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2008",
+"Giornate per abitante":6.90
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2009",
+"Giornate per abitante":6.36
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2010",
+"Giornate per abitante":6.38
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2011",
+"Giornate per abitante":6.83
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2012",
+"Giornate per abitante":6.58
+}
+,
+{
+"Regione":"Umbria",
+"Anno":"2013",
+"Giornate per abitante":6.38
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2001",
+"Giornate per abitante":9.00
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2002",
+"Giornate per abitante":8.94
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2003",
+"Giornate per abitante":9.03
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2004",
+"Giornate per abitante":8.55
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2005",
+"Giornate per abitante":8.26
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2006",
+"Giornate per abitante":8.58
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2007",
+"Giornate per abitante":8.87
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2008",
+"Giornate per abitante":7.42
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2009",
+"Giornate per abitante":6.88
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2010",
+"Giornate per abitante":7.00
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2011",
+"Giornate per abitante":7.15
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2012",
+"Giornate per abitante":7.08
+}
+,
+{
+"Regione":"Marche",
+"Anno":"2013",
+"Giornate per abitante":7.11
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2001",
+"Giornate per abitante":5.67
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2002",
+"Giornate per abitante":4.87
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2003",
+"Giornate per abitante":4.67
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2004",
+"Giornate per abitante":5.41
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2005",
+"Giornate per abitante":6.06
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2006",
+"Giornate per abitante":6.11
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2007",
+"Giornate per abitante":6.05
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2008",
+"Giornate per abitante":5.90
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2009",
+"Giornate per abitante":5.62
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2010",
+"Giornate per abitante":5.62
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2011",
+"Giornate per abitante":5.59
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2012",
+"Giornate per abitante":5.55
+}
+,
+{
+"Regione":"Lazio",
+"Anno":"2013",
+"Giornate per abitante":5.37
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2001",
+"Giornate per abitante":5.28
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2002",
+"Giornate per abitante":5.43
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2003",
+"Giornate per abitante":5.60
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2004",
+"Giornate per abitante":5.43
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2005",
+"Giornate per abitante":5.42
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2006",
+"Giornate per abitante":5.80
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2007",
+"Giornate per abitante":5.71
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2008",
+"Giornate per abitante":5.81
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2009",
+"Giornate per abitante":5.09
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2010",
+"Giornate per abitante":5.59
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2011",
+"Giornate per abitante":5.68
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2012",
+"Giornate per abitante":5.54
+}
+,
+{
+"Regione":"Abruzzo",
+"Anno":"2013",
+"Giornate per abitante":5.24
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2001",
+"Giornate per abitante":2.18
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2002",
+"Giornate per abitante":2.24
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2003",
+"Giornate per abitante":2.40
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2004",
+"Giornate per abitante":2.36
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2005",
+"Giornate per abitante":2.35
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2006",
+"Giornate per abitante":2.34
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2007",
+"Giornate per abitante":2.05
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2008",
+"Giornate per abitante":2.08
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2009",
+"Giornate per abitante":1.91
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2010",
+"Giornate per abitante":1.78
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2011",
+"Giornate per abitante":2.17
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2012",
+"Giornate per abitante":1.72
+}
+,
+{
+"Regione":"Molise",
+"Anno":"2013",
+"Giornate per abitante":1.44
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2001",
+"Giornate per abitante":3.67
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2002",
+"Giornate per abitante":3.57
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2003",
+"Giornate per abitante":3.45
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2004",
+"Giornate per abitante":3.47
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2005",
+"Giornate per abitante":3.33
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2006",
+"Giornate per abitante":3.34
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2007",
+"Giornate per abitante":3.44
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2008",
+"Giornate per abitante":3.26
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2009",
+"Giornate per abitante":3.12
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2010",
+"Giornate per abitante":3.22
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2011",
+"Giornate per abitante":3.39
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2012",
+"Giornate per abitante":3.19
+}
+,
+{
+"Regione":"Campania",
+"Anno":"2013",
+"Giornate per abitante":3.05
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2001",
+"Giornate per abitante":2.31
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2002",
+"Giornate per abitante":2.55
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2003",
+"Giornate per abitante":2.66
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2004",
+"Giornate per abitante":2.58
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2005",
+"Giornate per abitante":2.69
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2006",
+"Giornate per abitante":2.56
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2007",
+"Giornate per abitante":2.84
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2008",
+"Giornate per abitante":3.01
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2009",
+"Giornate per abitante":3.09
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2010",
+"Giornate per abitante":3.21
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2011",
+"Giornate per abitante":3.33
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2012",
+"Giornate per abitante":3.28
+}
+,
+{
+"Regione":"Puglia",
+"Anno":"2013",
+"Giornate per abitante":3.28
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2001",
+"Giornate per abitante":2.82
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2002",
+"Giornate per abitante":2.85
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2003",
+"Giornate per abitante":2.96
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2004",
+"Giornate per abitante":3.24
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2005",
+"Giornate per abitante":3.31
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2006",
+"Giornate per abitante":2.97
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2007",
+"Giornate per abitante":3.17
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2008",
+"Giornate per abitante":3.19
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2009",
+"Giornate per abitante":3.24
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2010",
+"Giornate per abitante":3.26
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2011",
+"Giornate per abitante":3.39
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2012",
+"Giornate per abitante":3.26
+}
+,
+{
+"Regione":"Basilicata",
+"Anno":"2013",
+"Giornate per abitante":3.38
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2001",
+"Giornate per abitante":2.97
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2002",
+"Giornate per abitante":3.39
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2003",
+"Giornate per abitante":3.67
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2004",
+"Giornate per abitante":3.86
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2005",
+"Giornate per abitante":3.95
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2006",
+"Giornate per abitante":4.13
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2007",
+"Giornate per abitante":4.43
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2008",
+"Giornate per abitante":4.31
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2009",
+"Giornate per abitante":4.29
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2010",
+"Giornate per abitante":4.15
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2011",
+"Giornate per abitante":4.36
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2012",
+"Giornate per abitante":4.27
+}
+,
+{
+"Regione":"Calabria",
+"Anno":"2013",
+"Giornate per abitante":4.06
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2001",
+"Giornate per abitante":2.76
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2002",
+"Giornate per abitante":2.65
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2003",
+"Giornate per abitante":2.65
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2004",
+"Giornate per abitante":2.69
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2005",
+"Giornate per abitante":2.76
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2006",
+"Giornate per abitante":2.93
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2007",
+"Giornate per abitante":2.94
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2008",
+"Giornate per abitante":2.80
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2009",
+"Giornate per abitante":2.76
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2010",
+"Giornate per abitante":2.70
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2011",
+"Giornate per abitante":2.81
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2012",
+"Giornate per abitante":2.85
+}
+,
+{
+"Regione":"Sicilia",
+"Anno":"2013",
+"Giornate per abitante":2.87
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2001",
+"Giornate per abitante":6.24
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2002",
+"Giornate per abitante":6.30
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2003",
+"Giornate per abitante":6.37
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2004",
+"Giornate per abitante":6.31
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2005",
+"Giornate per abitante":6.25
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2006",
+"Giornate per abitante":6.44
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2007",
+"Giornate per abitante":7.24
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2008",
+"Giornate per abitante":7.49
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2009",
+"Giornate per abitante":7.50
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2010",
+"Giornate per abitante":7.42
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2011",
+"Giornate per abitante":6.98
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2012",
+"Giornate per abitante":6.62
+}
+,
+{
+"Regione":"Sardegna",
+"Anno":"2013",
+"Giornate per abitante":6.46
+}
+]
